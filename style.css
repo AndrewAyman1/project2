@@ -1,0 +1,79 @@
+body{
+  background-color:#ffc0cb66;
+}
+
+.parant{
+  width:600px;
+  height:1700px;
+  background-color: white;
+  border-radius: 30px;
+  margin-top: 120px;
+  margin-left: 335px;
+  margin-bottom: 120px;
+  box-shadow: inset 0px 0px 10px #0000001e ,0px 0px 10px 0px #0000001e ; 
+}
+.img{
+  position: absolute;
+  border-radius: 10px;
+  width: 560px;
+  height: 250px;
+  margin-left: 20px;
+  margin-top: 32px;
+  background-position: center top;
+  background-image:url("images-2024-02-14T234627.584.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;box-shadow:inset 20px 16px 10px #0000001e, -5px 6px 9px 0px #0000007d;
+}
+
+.adress{
+  float: right;
+  position: relative;
+  margin-top: 290px;
+  margin-right:15px;
+}
+.wasf{
+  float: right;
+  position: relative;
+  width: 600px;
+  margin-right:9px;
+  text-align: right;
+  direction:rtl;
+}
+
+.time{
+  background-color:#0000001e;
+  position:absolute;
+  width: 560px;
+  height:120px;
+  margin-top: 470px;
+  margin-left: 20px;
+  border-radius: 10px;
+  direction: rtl;box-shadow: inset 0px 0px 10px #0000001e ,0px 0px 10px 0px #0000001e ;
+}
+
+.mokawenat{
+  position: absolute;
+  width: 560px;
+  height: 150px;
+  margin-top: 605px;
+  margin-left: 10px;
+  padding-right: 20px;
+  direction: rtl;
+}
+hr{
+  margin-left: 20px;
+}
+h3{
+  color: rgb(255, 204, 0);
+  text-shadow: -2px 0px 3px black;
+}
+td{
+    line-height: 1.6;
+    position: relative;
+    text-rendering: optimizelegibility;
+    font-weight: 300;
+    font-size: 1.2rem;
+    border: 1.54px solid #bcdee8;
+    padding: .5rem;
+    padding: 10px;
+}
